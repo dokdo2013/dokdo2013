@@ -6,6 +6,7 @@
   - Backend (PHP, ASP.Net, MySQL)
   - Frontend (HTML, CSS, JS, jQuery, Bootstrap)
   - Mobile (Flutter)
+  - Etc (Python, C/C++)
   
   
   [jm]: <http://jobmap.kr>
