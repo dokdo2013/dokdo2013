@@ -29,6 +29,8 @@
 |2018.10|해누플래너|[study.haenu.com][hp]|모바일 스터디플래너 '해누플래너' 웹앱, 안드로이드 앱|PHP, AppInventor|
 |2017.12|부산국제고 축제 투표시스템|[gukje.haenu.com][gukje]|부산국제고등학교 축제 '복면가왕' 투표 시스템|PHP|
 |2016.11|야자타임|[yajatime.haenu.com][yjtime]|부산국제고등학교 야간자율학습 통합관리시스템 '야자타임'|PHP|
+|2015.01|마테마티카|[Play Store][mathematica]|산수 연습 교육용 어플리케이션|AS 3.0, Flash Air|
+|2014.09|Basic Korean|[Play Store][bk]|한글 기초교육 어플리케이션 (ALCOB e-ICON 세계대회 출품)|AS 3.0, Flash Air|
 
 
 [jm]: <http://jobmap.kr>
@@ -48,3 +50,5 @@
 [cuknews]: <http://cuknews.dothome.co.kr>
 [haenume]: <http://haenu.me>
 [eta]: <https://github.com/dokdo2013/everytime-like-macro>
+[mathematica]: <https://play.google.com/store/apps/details?id=air.sum.mathmatics>
+[bk]: <https://play.google.com/store/apps/details?id=air.test01>
