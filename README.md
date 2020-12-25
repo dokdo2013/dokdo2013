@@ -4,9 +4,9 @@
 
 ## Technology
   - Backend (PHP, ASP.Net, MySQL)
-  - Frontend (HTML, CSS, JS, jQuery, Bootstrap)
+  - Frontend (HTML, CSS, JS, jQuery, Vue.js, Bootstrap)
   - Mobile (Flutter)
-  - Etc (Python, C/C++)
+  - Etc (Python, C/C++, AWS)
 
 ## Works
 |When|Project Name|Link|Description|Tech|
