@@ -36,7 +36,7 @@
 
 [jm]: <http://jobmap.kr>
 [haenu]: <https://haenu.com>
-[4ten]: <https://4ten.club>
+[4ten]: <https://4ten.haenu.com>
 [trinity_helper]: <https://cuk.haenu.com>
 [afc_au]: <https://chrome.google.com/webstore/detail/afreecatv-auto-up/dclegcffcilobhmapnmoekjecibgglcg?hl=ko&authuser=0>
 [sosa]: <http://sosa.haenu.xyz>
