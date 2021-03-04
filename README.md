@@ -11,6 +11,7 @@
 ## Works
 |When|Project Name|Link|Description|Tech|
 |---|---|---|---|---|
+|2020.12|JDC 일자리데이터센터|[data.jobmap.kr][jdc]|전국 지자체별 인구,고용,산업 통계데이터 시각화|PHP(CodeIgniter3), Python(Flask)|
 |2020.12|4TEN ELYON|[4ten.club][4ten]|엘리온 클랜 '포텐' 웹사이트 제작|PHP, CodeIgniter3|
 |2020.09|AfreecaTV Auto Up|[Chrome Webstore][afc_au]|아프리카TV 자동추천 크롬 익스텐션|Javascript|
 |2020.09|Barcode Cigacheck|[sosa.haenu.xyz][sosa]|GS25 소사원룸점 담배재고조사 웹앱 외주|PHP|
@@ -54,3 +55,4 @@
 [mathematica]: <https://play.google.com/store/apps/details?id=air.sum.mathmatics>
 [bk]: <https://play.google.com/store/apps/details?id=air.test01>
 [roar]: <http://roar.or.kr>
+[jdc]: <https://data.jobmap.kr>
