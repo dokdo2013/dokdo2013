@@ -3,6 +3,7 @@
 
 |When|Project Name|Link|Description|Tech|Where|
 |---|---|---|---|---|---|
+|2021.05|Upboard|[upboard.kr][upboard]|트위치 룰렛/포인트 보상 업보 관리 사이트 (CBT 중)|PHP CodeIgniter3|개인|
 |2021.04|Jobmap HR|[hr.jobmap.kr][hr]|한국세라믹기술원 기업수요맞춤형 직무분석 및 훈련과정개발 연구를 위한 설문 페이지|PHP CodeIgniter3|JOBMAP|
 |2021.02|JDC 일자리데이터센터|[data.jobmap.kr][jdc]|전국 지자체별 인구,고용,산업 통계데이터 시각화|PHP(CodeIgniter3), Python(Flask)|JOBMAP|
 |2020.12|4TEN ELYON|[4ten.club][4ten]|엘리온 클랜 '포텐' 웹사이트 제작|PHP, CodeIgniter3|개인|
@@ -48,3 +49,4 @@
 [roar]: <http://roar.or.kr>
 [jdc]: <https://data.jobmap.kr>
 [hr]: <https://hr.jobmap.kr>
+[upboard]: <https://upboard.kr>
