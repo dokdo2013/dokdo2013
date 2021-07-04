@@ -1,6 +1,6 @@
 ## Web Fullstack Developer
-  - Works in [JOBMAP][jm]
-  - Portfolio site : [haenu.com][haenu]
+  - PHP (CodeIgniter 3), Python (Flask)
+  - HTML, CSS, JS (jQuery), Bootstrap
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dokdo2013&langs_count=8)
 ![](https://github-readme-stats.vercel.app/api?username=dokdo2013&show_icons=true)
