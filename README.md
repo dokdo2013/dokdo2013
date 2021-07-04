@@ -1,4 +1,5 @@
 ## Web Fullstack Developer
+  - **도전**하 **성장**하는 **풀스택 개발자** 조현우입니다.
   - PHP (CodeIgniter 3), Python (Flask)
   - HTML, CSS, JS (jQuery), Bootstrap
 
