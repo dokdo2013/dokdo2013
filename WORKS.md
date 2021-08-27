@@ -3,10 +3,11 @@
 
 |When|Project Name|Link|Description|Tech|Where|
 |---|---|---|---|---|---|
+|2021.08|Easy LMS|[easylms.kr][easylms]|간편하게 등록하여 사용하는 완전관리형 LMS 서비스|PHP CodeIgniter3|JOBMAP|
 |2021.05|Upboard|[upboard.kr][upboard]|트위치 룰렛/포인트 보상 업보 관리 사이트 (CBT 중)|PHP CodeIgniter3|개인|
 |2021.04|Jobmap HR|[hr.jobmap.kr][hr]|기업수요맞춤형 직무분석 및 훈련과정개발 연구를 위한 설문 플랫폼|PHP CodeIgniter3|JOBMAP|
-|2021.02|JDC 일자리데이터센터|[data.jobmap.kr][jdc]|전국 지자체별 인구,고용,산업 통계데이터 시각화|PHP(CodeIgniter3), Python(Flask)|JOBMAP|
-|2020.12|4TEN ELYON|[4ten.club][4ten]|엘리온 클랜 '포텐' 웹사이트 제작|PHP, CodeIgniter3|개인|
+|2021.02|JDC 일자리데이터센터|[data.jobmap.kr][jdc]|전국 지자체별 인구,고용,산업 통계데이터 시각화|PHP CodeIgniter3, Python Flask|JOBMAP|
+|2020.12|4TEN ELYON|[4ten.club][4ten]|엘리온 클랜 '포텐' 웹사이트 제작|PHP CodeIgniter3|개인|
 |2020.09|AfreecaTV Auto Up|[Chrome Webstore][afc_au]|아프리카TV 자동추천 크롬 익스텐션|Javascript|개인|
 |2020.09|Barcode Cigacheck|[sosa.haenu.xyz][sosa]|GS25 소사원룸점 담배재고조사 웹앱 외주|PHP|개인|
 |2020.09|해누닷컴 리뉴얼|[haenu.com][haenu]|포트폴리오 사이트 '해누닷컴' 리뉴얼|HTML|개인|
@@ -50,3 +51,4 @@
 [jdc]: <https://data.jobmap.kr>
 [hr]: <https://hr.jobmap.kr>
 [upboard]: <https://upboard.kr>
+[easylms]: <https://easylms.kr>
