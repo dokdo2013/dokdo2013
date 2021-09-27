@@ -1,6 +1,6 @@
 ## Profile
   - Jo Hyeon Woo (2000.10.05 ~ )
-  - Web Fullstack Developer (Mostly using PHP CI3 + jQuery)
+  - Web Fullstack Developer (Mostly using PHP CI + jQuery)
 
 ## Education
 |구분|학교명|전공|소재|기간|상태|
@@ -15,11 +15,12 @@
 ## Career
 |기업명|소재|재직기간|상태|
 |-|-|-|-|
+|MHQ (아이엠)|서울|2021.10.01 ~ ||
 |(주)미래직업전망연구원|서울|2019.09.01 ~ 2021.08.31||
 
 ## Technology
   - Web Backend
-    - PHP : CodeIgniter3
+    - PHP : CodeIgniter 3,4
     - ASP.Net
     - Python : Flask, FastAPI
     - DBMS : MariaDB(MySQL)
