@@ -1,6 +1,10 @@
 ## Profile
   - Jo Hyeon Woo (2000.10.05 ~ )
-  - Web Fullstack Developer (Mostly using PHP CI + jQuery)
+  - Web Fullstack Developer
+
+## Contact
+- Email : hyeonwoo5342@gmail.com
+- Company Email : hyeonwoo@mhqglobal.com
 
 ## Education
 |구분|학교명|전공|소재|기간|상태|
@@ -15,7 +19,7 @@
 ## Career
 |기업명|소재|재직기간|상태|
 |-|-|-|-|
-|MHQ (아이엠)|서울|2021.10.01 ~ ||
+|MHQ (i.M)|서울|2021.10.01 ~ 재직 중||
 |(주)미래직업전망연구원|서울|2019.09.01 ~ 2021.08.31||
 
 ## Technology
@@ -23,7 +27,7 @@
     - PHP : CodeIgniter 3,4
     - ASP.Net
     - Python : Flask, FastAPI
-    - DBMS : MariaDB(MySQL)
+    - DBMS : MySQL/MariaDB, MSSQL
   - Web Frontend
     - HTML5, CSS3, Javascript
     - jQuery
