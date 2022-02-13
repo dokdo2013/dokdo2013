@@ -1,6 +1,6 @@
 ## Profile
   - Jo Hyeon Woo (2000.10.05 ~ )
-  - Web Fullstack Developer
+  - Web Fullstack Developer (PHP, Python, React)
 
 ## Contact
 - Email : hyeonwoo5342@gmail.com
@@ -25,15 +25,15 @@
 ## Technology
   - Web Backend
     - PHP : CodeIgniter 3,4
-    - Python : Flask, FastAPI
+    - Python : FastAPI, Flask
     - ASP.Net
     - DBMS : MySQL/MariaDB, MSSQL
   - Web Frontend
     - React.js
+    - Mui, Ant Design, Chakra-ui
     - Modern Javascript (over ES6)
     - HTML5, CSS3, Vanilla Javascript
-    - jQuery
-    - Bootstrap
+    - jQuery, Bootstrap
   - Other Languages
     - Python
     - C/C++
