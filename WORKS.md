@@ -9,6 +9,7 @@
 
 |When|Project Name|Link|Source Code|Description|Tech|Where|
 |---|---|---|---|---|---|---|
+|2022.02|트위치 _포도당_ 노래책|[music.c6h12o6.kr][music-c6h12o6]|[github (front)](https://github.com/yatchacha/music.c6h12o6.kr)|트위치 _포도당_ 컨텐츠용 노래책|React.js, Python Fastapi|개인|
 |2021.08|Easy LMS|[easylms.kr][easylms] (접속불가)||간편하게 등록하여 사용하는 완전관리형 LMS 서비스|PHP CodeIgniter3|JOBMAP|
 |2021.05|Upboard|[upboard.kr][upboard] (접속불가, 개편 예정)||트위치 룰렛/포인트 보상 업보 관리 사이트 (CBT 중)|PHP CodeIgniter3|개인|
 |2021.04|Jobmap HR|[hr.jobmap.kr][hr] (접속불가)||기업수요맞춤형 직무분석 및 훈련과정개발 연구를 위한 설문 플랫폼|PHP CodeIgniter3|JOBMAP|
@@ -58,3 +59,4 @@
 [hr]: <https://hr.jobmap.kr>
 [upboard]: <https://upboard.kr>
 [easylms]: <https://easylms.kr>
+[music-c6h12o6]: <https://music.c6h12o6.kr>
