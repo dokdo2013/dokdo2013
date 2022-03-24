@@ -9,7 +9,7 @@
 ## Career
 |기업명|소재|재직기간|기간|상태|소속 및 직위|비고|
 |-|-|-|-|-|-|-|
-|EJN (Twip)|서울|2022.04.18 ~ ||입사 예정||산업기능요원 복무 예정|
+|EJN (Twip)|서울|2022.04.18 ~ ||입사 예정|백엔드팀 백엔드 개발자|산업기능요원 복무 예정|
 |MHQ (아이엠택시)|서울|2021.10.01 ~ 2022.04.15|6.5개월|퇴사 예정|IT본부 M.Lab 웹개발팀 매니저||
 |(주)미래직업전망연구원|서울|2019.09.01 ~ 2021.08.31|2년|전 직장|플랫폼개발사업본부 선임연구원||
 
@@ -32,17 +32,17 @@
   - Web Frontend
     - React.js
     - Mui, Ant Design, Chakra-ui
-    - Modern Javascript (over ES6)
+    - Modern Javascript (over ES6), Typescript
     - HTML5, CSS3, Vanilla Javascript
     - jQuery, Bootstrap
   - Other Languages
     - Python
-    - C/C++
+    - C/C++ (for PS)
     - ActionScript 3.0
   - Infra
     - Linux
     - AWS
     - Jenkins
   - Communication
-    - Jira
+    - Jira, Confluence
     - Discord, Slack
