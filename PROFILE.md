@@ -4,10 +4,10 @@
 
 ## Contact
 - Email : hyeonwoo5342@gmail.com
-- Company Email : hyeonwoo@mhqglobal.com
+- Company Email : h_jo@ejn.gg
 
 ## Career
-|기업명|소재|재직기간|기간|상태|소속 및 직위|비고|
+|기업명 (주요서비스)|소재|재직기간|기간|상태|소속 및 직위|비고|
 |-|-|-|-|-|-|-|
 |EJN (Twip)|서울|2022.04.18 ~ |||백엔드팀 백엔드 개발자|산업기능요원 복무 예정|
 |MHQ (아이엠택시)|서울|2021.10.01 ~ 2022.04.15|6.5개월||IT본부 M.Lab 웹개발팀 매니저||
@@ -27,7 +27,9 @@
   - Web Backend
     - PHP : CodeIgniter 3,4
     - Python : FastAPI, Flask
+    - Nest.js (Node.js)
     - ASP.Net
+    - Serverless Framework
     - DBMS : MySQL/MariaDB, MSSQL
   - Web Frontend
     - React.js
@@ -35,12 +37,14 @@
     - Modern Javascript (over ES6), Typescript
     - HTML5, CSS3, Vanilla Javascript
     - jQuery, Bootstrap
+    - Svelte.js
   - Other Languages
     - Python
     - C/C++ (for PS)
     - ActionScript 3.0
+    - Chrome Extensions
   - Infra
-    - Linux
+    - Linux (Ubuntu/Debian, RHEL/CentOS)
     - AWS
     - Jenkins
   - Communication
