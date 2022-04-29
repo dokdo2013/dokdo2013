@@ -4,7 +4,7 @@
 -->
 
 ### 조현우 (HyeonWoo Jo) - Web Fullstack Developer
-> 레거시와 신기술 사이의 줄타기! 도전하며 성장하는 3년차 개발자입니다
+> 도전하며 성장하는 3년차 개발자 조현우입니다!
 
 [더 알아보고 싶다면?][profile]
 
@@ -22,6 +22,7 @@
 - 트리니티 헬퍼 ([웹](https://github.com/dokdo2013/trinity_helper_web), [서버](https://github.com/dokdo2013/trinity_helper_python)) : 가톨릭대학교 수강 정정을 위한 알림 서비스
 - [GS25 담배 재고조사 웹사이트](https://github.com/dokdo2013/gs25-cigacheck) : GS25 소사원룸점 담배 재고조사 웹사이트
 - [에브리타임 자동추천 매크로](https://github.com/dokdo2013/everytime-like-macro) : 에브리타임 자동추천 매크로
+- [해누플래너](https://github.com/dokdo2013/haenu-planner-v1) : 간편하게 이용할 수 있는 학습플래너 웹사이트
 - [야자타임](https://github.com/dokdo2013/Yajatime) : 부산국제고등학교 야간자율학습 통합관리시스템
 
 [더 알아보고 싶다면?][work]
