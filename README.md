@@ -6,7 +6,7 @@
 ### 조현우 (HyeonWoo Jo) - Web Fullstack Developer
 > 레거시와 신기술 사이의 줄타기! 도전하며 성장하는 3년차 개발자입니다
 
-[더 알아보고 싶다면...][profile]
+[더 알아보고 싶다면?][profile]
 
 <br>
 
@@ -24,7 +24,7 @@
 - [에브리타임 자동추천 매크로](https://github.com/dokdo2013/everytime-like-macro) : 에브리타임 자동추천 매크로
 - [야자타임](https://github.com/dokdo2013/Yajatime) : 부산국제고등학교 야간자율학습 통합관리시스템
 
-[더 알아보고 싶다면...][work]
+[더 알아보고 싶다면?][work]
 
 <br>
 
@@ -63,7 +63,12 @@
 
 <br><br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=trueshow_icons=true&theme=dracula)
+<div align="center">
+
+![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=true&show_icons=true&theme=dracula)
+
+</div>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokdo2013&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
 [work]: <https://github.com/dokdo2013/dokdo2013/blob/main/WORKS.md>
