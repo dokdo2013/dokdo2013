@@ -11,6 +11,7 @@
 <br>
 
 ### LEAVEN Projects (커버츄얼 팀 '레븐' 관련 프로젝트)
+- [gellgell](https://github.com/dokdo2013/beadyo97-gellgell) : 레븐 구슬요 팬게임
 - [레븐 방송정보](https://github.com/dokdo2013/leaven-onair) : 레븐 뱅온/뱅종 정보 조회하는 웹사이트
 - [네이버 카페 트위치 뱅온 알림봇](https://github.com/dokdo2013/naver-cafe-twitch-alert) : 트위치 방송을 켜면 네이버 카페에 게시물을 등록해주는 프로그램
 - [레븐 멀티트위치](https://github.com/dokdo2013/leaven-multi) : 커버츄얼 팀 레븐(LEAVEN) 멀티트위치 웹사이트
