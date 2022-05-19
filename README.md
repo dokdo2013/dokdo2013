@@ -15,6 +15,7 @@
 - [레븐 방송정보](https://github.com/dokdo2013/leaven-onair) : 레븐 뱅온/뱅종 정보 조회하는 웹사이트
 - [네이버 카페 트위치 뱅온 알림봇](https://github.com/dokdo2013/naver-cafe-twitch-alert) : 트위치 방송을 켜면 네이버 카페에 게시물을 등록해주는 프로그램
 - [레븐 멀티트위치](https://github.com/dokdo2013/leaven-multi) : 커버츄얼 팀 레븐(LEAVEN) 멀티트위치 웹사이트
+- [레븐 API](https://github.com/dokdo2013/leaven-api-temp) : 레븐 프로젝트 통합 API (FastAPI)
 
 ### Personal Projects
 - [partyview.tv](https://github.com/dokdo2013/partyview) : 여러 트위치 방송을 함께 볼 수 있는 Partyview 프로젝트 (leaven-multi 기반)
@@ -23,6 +24,7 @@
 - [디스코드 아프리카TV 알림봇](https://github.com/dokdo2013/discord-afreecatv-alert-bot) : 아프리카TV 방송을 켜면 디스코드에 알림을 보내주는 봇
 - [디스코드 코인봇](https://github.com/dokdo2013/discord-coin-bot) : 업비트 API를 활용하여 코인 시세를 조회할 수 있는 봇
 - [카페24 트래픽 알림봇](https://github.com/dokdo2013/cafe24_traffic_monitoring) : 카페24 웹호스팅 트래픽이 일정 수준 이상으로 올라가면 알림을 보내주는 프로그램
+- [포텐 엘리온](https://github.com/dokdo2013/4ten_elyon) : 아프리카TV '포텐'님의 ELYON 클랜원 관리 웹사이트
 - [아프리카TV 자동 추천/꿀잼각 크롬 익스텐션](https://github.com/dokdo2013/afreecatv_auto_up) : 아프리카TV 자동 추천, 자동 꿀잼각을 실행해주는 크롬 익스텐션
 - 트리니티 헬퍼 ([웹](https://github.com/dokdo2013/trinity_helper_web), [서버](https://github.com/dokdo2013/trinity_helper_python)) : 가톨릭대학교 수강 정정을 위한 알림 서비스
 - [GS25 담배 재고조사 웹사이트](https://github.com/dokdo2013/gs25-cigacheck) : GS25 소사원룸점 담배 재고조사 웹사이트
