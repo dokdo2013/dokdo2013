@@ -76,8 +76,6 @@
 ![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=true&show_icons=true&theme=dracula)
 
 </div>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dokdo2013&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
-
 
 [work]: <https://github.com/dokdo2013/dokdo2013/blob/main/WORKS.md>
 [profile]: <https://github.com/dokdo2013/dokdo2013/blob/main/PROFILE.md>
