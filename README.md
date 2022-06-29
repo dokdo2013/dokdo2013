@@ -19,7 +19,8 @@
 - [레븐 API](https://github.com/dokdo2013/leaven-api-temp) : 레븐 프로젝트 통합 API (FastAPI)
 
 ### Personal Projects
-- [partyview.tv](https://github.com/dokdo2013/partyview) : 여러 트위치 방송을 함께 볼 수 있는 Partyview 프로젝트 (leaven-multi 기반)
+- [전해리 방송일정](https://github.com/dokdo2013/junharry) : 트위치 전해리 방송일정 웹사이트
+- [nshop-yatcha](https://github.com/yatchacha/nshop-yatcha) : 네이버쇼핑검색 업무자동화툴
 - [포도당 노래책](https://github.com/dokdo2013/music.c6h12o6.kr) : 트위치 포도당 노래책 웹사이트
 - 머니머니 ([프론트](https://github.com/dokdo2013/moneymoney-front), [백엔드](https://github.com/dokdo2013/moneymoney-backend)) : 가계부 등록을 위한 웹사이트
 - [디스코드 아프리카TV 알림봇](https://github.com/dokdo2013/discord-afreecatv-alert-bot) : 아프리카TV 방송을 켜면 디스코드에 알림을 보내주는 봇
