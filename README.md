@@ -19,6 +19,7 @@
 - [레븐 API](https://github.com/dokdo2013/leaven-api-temp) : 레븐 프로젝트 통합 API (FastAPI)
 
 ### Personal Projects
+- [해리배치고사](https://github.com/dokdo2013/junharry-test-next) : 트위치 전해리 퀴즈 웹사이트
 - [전해리 방송일정](https://github.com/dokdo2013/junharry) : 트위치 전해리 방송일정 웹사이트
 - [nshop-yatcha](https://github.com/yatchacha/nshop-yatcha) : 네이버쇼핑검색 업무자동화툴
 - [포도당 노래책](https://github.com/dokdo2013/music.c6h12o6.kr) : 트위치 포도당 노래책 웹사이트
