@@ -4,7 +4,7 @@
 -->
 
 ### 조현우 (HyeonWoo Jo) - Web Fullstack Developer
-> 도전하며 성장하는 3년차 개발자 조현우입니다!
+> 도전하며 성장하는 4년차 개발자 조현우입니다!
 
 [더 알아보고 싶다면?][profile]
 
