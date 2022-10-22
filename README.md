@@ -6,14 +6,13 @@
 # 조현우 (HyeonWoo Jo) - Web Fullstack Developer
 > 도전하며 성장하는 4년차 개발자 조현우입니다!
 
-- [더 알아보고 싶다면?][profile]
-- [포트폴리오](https://resume.haenu.com)
+[👉 노션 포트폴리오 보러 가기](https://resume.haenu.com)
 
 ## Career
 
 <table>
 	<tr>
-		<td align="center" width="225">
+		<td align="center" width="250">
 			<br /><a href="https://ejn.gg">
 				<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
 				<br /><br /><b>(주)이제이엔</b>
@@ -21,7 +20,7 @@
       <sub>2022/04/18 ~ 현재</sub><br />
       <sub>백엔드팀 백엔드개발자</sub><br />
 		</td>
-		<td align="center" width="225">
+		<td align="center" width="250">
 			<br /><a href="https://ejn.gg">
 				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
 			  <br /><br /><b>(주)엠에이치큐</b>
@@ -29,7 +28,7 @@
       <sub>2021/10/01 ~ 2022/04/18</sub><br />
       <sub>웹개발팀 매니저</sub><br />
 		</td>
-		<td align="center" width="225">
+		<td align="center" width="250">
 			<br /><a href="https://ejn.gg">
 				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
 				<br /><br /><b>(주)미래직업전망연구원</b>
