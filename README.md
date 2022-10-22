@@ -3,12 +3,54 @@
 ![](https://github-readme-stats.vercel.app/api?username=dokdo2013&show_icons=true)
 -->
 
-### 조현우 (HyeonWoo Jo) - Web Fullstack Developer
+# 조현우 (HyeonWoo Jo) - Web Fullstack Developer
 > 도전하며 성장하는 4년차 개발자 조현우입니다!
 
-[더 알아보고 싶다면?][profile]
+- [더 알아보고 싶다면?][profile]
+- [포트폴리오](https://resume.haenu.com)
 
-<br>
+## Side Projects
+
+<table>
+	<tr>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/leaven-minigame">
+				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
+				<br /><b>해리배치고사</b>
+			</a><br />
+      <sub>2022/07/21 ~ 2022/07/25</sub><br />
+      <sub>Next.js, FastAPI, MariaDB, Redis</sub><br />
+      <a target="_blank" href="https://test.junharry.com"><sub>test.junharry.com</sub></a>
+		</td>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/leaven-minigame">
+				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
+				<br /><b>전해리 방송일정</b>
+			</a><br />
+      <sub>2022/06/26 ~ 2022/07/02</sub><br />
+      <sub>React.js, FastAPI, MariaDB, Redis</sub><br />
+      <a target="_blank" href="https://junharry.com"><sub>junharry.com</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/leaven-minigame">
+				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
+				<br /><b>나와 가장 잘 맞는 레븐 멤버는?</b>
+			</a><br />
+      <sub>2022/06/05 ~ 2022/06/05</sub><br />
+      <sub>Next.js, Tailwind CSS</sub><br />
+      <a target="_blank" href="https://minigame.leaven.team"><sub>minigame.leaven.team</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/beadyo97-gellgell">
+				<img src="https://raw.githubusercontent.com/dokdo2013/beadyo97-gellgell/main/src/gellgell.png" width="80" alt=""/>
+				<br /><b>gellgell</b>
+			</a><br />
+      <sub>2022/06/05 ~ 2022/06/05</sub><br />
+      <sub>React.js, FastAPI, MariaDB</sub><br />
+      <a target="_blank" href="https://gell.leaven.team"><sub>gell.leaven.team</sub></a>
+		</td>
+	</tr>
+</table>
 
 ### LEAVEN Projects (커버츄얼 팀 '레븐' 관련 프로젝트)
 - [나와 가장 잘 맞는 레븐 멤버는?](https://github.com/dokdo2013/leaven-minigame) : 레븐 미니게임
@@ -39,7 +81,7 @@
 
 <br>
 
-### Tech Stacks
+## Tech Stacks
 
 <div align=center> 
   Frontend
