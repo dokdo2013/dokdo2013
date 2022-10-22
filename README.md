@@ -21,7 +21,7 @@
       <sub>백엔드팀 백엔드개발자</sub><br />
 		</td>
 		<td align="center" width="250">
-			<br /><a href="https://ejn.gg">
+			<br /><a href="https://imforyou.co.kr">
 				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
 			  <br /><br /><b>(주)엠에이치큐</b>
 			</a><br />
@@ -29,7 +29,7 @@
       <sub>웹개발팀 매니저</sub><br />
 		</td>
 		<td align="center" width="250">
-			<br /><a href="https://ejn.gg">
+			<br /><a href="http://jobmap.kr">
 				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
 				<br /><br /><b>(주)미래직업전망연구원</b>
 			</a><br />
