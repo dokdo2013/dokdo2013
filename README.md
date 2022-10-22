@@ -9,12 +9,43 @@
 - [더 알아보고 싶다면?][profile]
 - [포트폴리오](https://resume.haenu.com)
 
+## Career
+
+<table>
+	<tr>
+		<td align="center" width="225">
+			<br /><a href="https://ejn.gg">
+				<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
+				<br /><br /><b>(주)이제이엔</b>
+			</a><br />
+      <sub>2022/04/18 ~ 현재</sub><br />
+      <sub>백엔드팀 백엔드개발자</sub><br />
+		</td>
+		<td align="center" width="225">
+			<br /><a href="https://ejn.gg">
+				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
+			  <br /><br /><b>(주)엠에이치큐</b>
+			</a><br />
+      <sub>2021/10/01 ~ 2022/04/18</sub><br />
+      <sub>웹개발팀 매니저</sub><br />
+		</td>
+		<td align="center" width="225">
+			<br /><a href="https://ejn.gg">
+				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
+				<br /><br /><b>(주)미래직업전망연구원</b>
+			</a><br />
+      <sub>2019/09/01 ~ 2021/08/31</sub><br />
+      <sub>플랫폼개발사업본부 선임연구원</sub><br />
+		</td>
+	</tr>
+</table>
+
 ## Side Projects
 
 <table>
 	<tr>
 		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-minigame">
+			<a href="https://github.com/dokdo2013/junharry-test-next">
 				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
 				<br /><b>해리배치고사</b>
 			</a><br />
@@ -23,7 +54,7 @@
       <a target="_blank" href="https://test.junharry.com"><sub>test.junharry.com</sub></a>
 		</td>
 		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-minigame">
+			<a href="https://github.com/dokdo2013/junharry">
 				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
 				<br /><b>전해리 방송일정</b>
 			</a><br />
@@ -45,39 +76,151 @@
 				<img src="https://raw.githubusercontent.com/dokdo2013/beadyo97-gellgell/main/src/gellgell.png" width="80" alt=""/>
 				<br /><b>gellgell</b>
 			</a><br />
-      <sub>2022/06/05 ~ 2022/06/05</sub><br />
+      <sub>2022/05/16 ~ 2022/05/17</sub><br />
       <sub>React.js, FastAPI, MariaDB</sub><br />
       <a target="_blank" href="https://gell.leaven.team"><sub>gell.leaven.team</sub></a>
 		</td>
 	</tr>
+	<tr>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/leaven-onair">
+				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
+				<br /><b>레븐 방송정보</b>
+			</a><br />
+      <sub>2022/05/02 ~ 2022/05/02</sub><br />
+      <sub>React.js, FastAPI, MariaDB</sub><br />
+      <a target="_blank" href="https://onair.leaven.team"><sub>onair.leaven.team</sub></a>
+		</td>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/naver-cafe-twitch-alert">
+				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
+				<br /><b>네이버 카페 트위치 뱅온 알림봇</b>
+			</a><br />
+      <sub>2022/04/25 ~ 2022/04/27</sub><br />
+      <sub>Python, Cronjob, Express.js</sub>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/leaven-multi">
+				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
+				<br /><b>레븐 멀티 트위치</b>
+			</a><br />
+      <sub>2022/04/21 ~ 2022/04/29</sub><br />
+      <sub>React.js, FastAPI, MariaDB</sub><br />
+      <a target="_blank" href="https://multi.leaven.team"><sub>multi.leaven.team</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/moneymoney-front">
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="63" height="80" alt=""/>
+				<br /><b>머니머니</b>
+			</a><br />
+      <sub>2022/04/02 ~ 2022/04/08</sub><br />
+      <sub>Svelte, 서버리스 프레임워크, Flask</sub><br />
+      <a target="_blank" href="https://money.haenu.com"><sub>money.haenu.com</sub></a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/music.c6h12o6.kr">
+				<img src="https://static-cdn.jtvnw.net/emoticons/v2/304434784/static/light/2.0" width="80" alt=""/>
+				<br /><b>포도당 노래책</b>
+			</a><br />
+      <sub>2022/02/12 ~ 2022/02/14</sub><br />
+      <sub>React.js, FastAPI, MariaDB</sub><br />
+      <a target="_blank" href="https://music.c6h12o6.kr"><sub>music.c6h12o6.kr</sub></a>
+		</td>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/discord-coin-bot">
+				<img src="https://bitcoin.org/img/icons/opengraph.png?1666174126" width="80" alt=""/>
+				<br /><b>디스코드 코인봇</b>
+			</a><br />
+      <sub>2021/12/01 ~ 2022/02/11</sub><br />
+      <sub>Python</sub>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/tgd-magicss">
+				<img src="https://play-lh.googleusercontent.com/3sOGDTg69Rpplbz1A5DGleS84V0vCUwfMuWlLu4iSSNOTWDrN3lCurY9wPbt2vi8qi8e" width="80" alt=""/>
+				<br /><b>트게더 매직CSS</b>
+			</a><br />
+      <sub>2021/05/30 ~ 2021/05/30</sub><br />
+      <sub>HTML+CSS, Bootsrap</sub><br />
+      <a target="_blank" href="https://tgd.haenu.com"><sub>tgd.haenu.com</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/4ten_elyon">
+				<img src="https://yt3.ggpht.com/ytc/AMLnZu9d-6GuR4axyYzZFmkEbG52RSuYFC70JxoA9usW=s176-c-k-c0x00ffffff-no-rj" width="80" alt=""/>
+				<br /><b>4TEN ELYON</b>
+			</a><br />
+      <sub>2021/01/01 ~ 2021/01/31</sub><br />
+      <sub>PHP CodeIgniter3, MariaDB</sub><br />
+      <a target="_blank" href="https://4ten.haenu.com"><sub>4ten.haenu.com</sub></a>
+		</td>
+	</tr>
+	<tr>
+		<td align="center" width="225">
+			<a href="https://github.com/dokdo2013/afreecatv_auto_up">
+				<img src="https://lh3.googleusercontent.com/vuuVOLrSGfWEhLDhPuEN9EPIwuwgFDqU3oJz2ZI1aK9_VEQo-3c0WjtUwuG7RMPW9xWuc0MJgEhnK2A4ls4O67lkbQ=w128-h128-e365-rj-sc0x00ffffff" width="80" alt=""/>
+				<br /><b>AfreecaTV Auto UP</b>
+			</a><br />
+      <sub>2020/11/09 ~ 2022/11/17</sub><br />
+      <sub>Javascript (Chrome Extension)</sub><br />
+      <a target="_blank" href="https://chrome.google.com/webstore/detail/afreecatv-auto-up/dclegcffcilobhmapnmoekjecibgglcg"><sub>Chrome Web Store</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/gs25-cigacheck">
+				<img src="https://user-images.githubusercontent.com/22076477/197336702-25d95166-112b-4c42-a474-ddc8ad5f75ad.png" width="100" alt=""/>
+				<br /><b>편의점 담배 재고조사 웹앱</b>
+			</a><br />
+      <sub>2020/09/01 ~ 2020/09/30</sub><br />
+      <sub>PHP, MySQL</sub>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/trinity_helper_web">
+				<img src="https://user-images.githubusercontent.com/22076477/197336872-ca34478b-73df-4f9e-930d-6f945512133a.jpeg" width="80" alt=""/>
+				<br /><b>트리니티 헬퍼</b>
+			</a><br />
+      <sub>2020/08/01 ~ 2020/08/31</sub><br />
+      <sub>PHP, MySQL, Python</sub><br />
+      <a target="_blank" href="https://cuk.haenu.com"><sub>cuk.haenu.com</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/catolling">
+				<img src="https://user-images.githubusercontent.com/22076477/197336872-ca34478b-73df-4f9e-930d-6f945512133a.jpeg" width="80" alt=""/>
+				<br /><b>Catolling</b>
+			</a><br />
+      <sub>2019/12/01 ~ 2019/12/10</sub><br />
+      <sub>PHP, Bootstrap</sub><br />
+      <a target="_blank" href="https://catolling.haenu.com"><sub>catolling.haenu.com</sub></a>
+		</td>
+	</tr>
+	<tr>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/haenu-planner-v1">
+				<img src="https://user-images.githubusercontent.com/22076477/197337096-5065544c-8295-44c3-9bcd-c6d26b2188cd.png" width="80" alt=""/>
+				<br /><b>해누플래너</b>
+			</a><br />
+      <sub>2018/08/15 ~ 2018/08/31</sub><br />
+      <sub>PHP, MySQL, Bootstrap</sub><br />
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=appinventor.ai_hyeonwoo5342.hyeonwoo_gouniv"><sub>Google Play Store</sub></a>
+		</td>
+    <td align="center" width="225">
+			<a href="https://github.com/dokdo2013/Yajatime">
+				<img src="https://user-images.githubusercontent.com/22076477/197337858-aece0b84-68dc-4699-b55b-1422a7caab10.jpeg" width="80" align="center" alt=""/>
+				<br /><b>야자타임</b>
+			</a><br />
+      <sub>2016/07/01 ~ 2018/02/28</sub><br />
+      <sub>PHP, MySQL, Bootstrap</sub><br />
+      <a target="_blank" href="https://yajatime.haenu.com"><sub>yajatime.haenu.com</sub></a>
+		</td>
+    <td align="center" width="225">
+			<img src="https://play-lh.googleusercontent.com/xW4aDH34nVgdy8l3XNPfzkqi1_K1aTxFfd0eQsdlr-qwbk8nqDZOck3t_nadrgjXYbfv=w480-h960-rw" width="80" alt=""/>
+			<br /><b>마테마티카</b><br />
+      <sub>2014/10/01 ~ 2015/01/31</sub><br />
+      <sub>ActionScript 3.0 (Adobe Flash Air)</sub><br />
+      <a target="_blank" href="https://play.google.com/store/apps/details?id=appinventor.ai_hyeonwoo5342.hyeonwoo_gouniv"><sub>Google Play Store</sub></a>
+		</td>
+	</tr>
 </table>
 
-### LEAVEN Projects (커버츄얼 팀 '레븐' 관련 프로젝트)
-- [나와 가장 잘 맞는 레븐 멤버는?](https://github.com/dokdo2013/leaven-minigame) : 레븐 미니게임
-- [gellgell](https://github.com/dokdo2013/beadyo97-gellgell) : 레븐 구슬요 팬게임
-- [레븐 방송정보](https://github.com/dokdo2013/leaven-onair) : 레븐 뱅온/뱅종 정보 조회하는 웹사이트
-- [네이버 카페 트위치 뱅온 알림봇](https://github.com/dokdo2013/naver-cafe-twitch-alert) : 트위치 방송을 켜면 네이버 카페에 게시물을 등록해주는 프로그램
-- [레븐 멀티트위치](https://github.com/dokdo2013/leaven-multi) : 커버츄얼 팀 레븐(LEAVEN) 멀티트위치 웹사이트
-- [레븐 API](https://github.com/dokdo2013/leaven-api-temp) : 레븐 프로젝트 통합 API (FastAPI)
-
-### Personal Projects
-- [해리배치고사](https://github.com/dokdo2013/junharry-test-next) : 트위치 전해리 퀴즈 웹사이트
-- [전해리 방송일정](https://github.com/dokdo2013/junharry) : 트위치 전해리 방송일정 웹사이트
-- [nshop-yatcha](https://github.com/yatchacha/nshop-yatcha) : 네이버쇼핑검색 업무자동화툴
-- [포도당 노래책](https://github.com/dokdo2013/music.c6h12o6.kr) : 트위치 포도당 노래책 웹사이트
-- 머니머니 ([프론트](https://github.com/dokdo2013/moneymoney-front), [백엔드](https://github.com/dokdo2013/moneymoney-backend)) : 가계부 등록을 위한 웹사이트
-- [디스코드 아프리카TV 알림봇](https://github.com/dokdo2013/discord-afreecatv-alert-bot) : 아프리카TV 방송을 켜면 디스코드에 알림을 보내주는 봇
-- [디스코드 코인봇](https://github.com/dokdo2013/discord-coin-bot) : 업비트 API를 활용하여 코인 시세를 조회할 수 있는 봇
-- [카페24 트래픽 알림봇](https://github.com/dokdo2013/cafe24_traffic_monitoring) : 카페24 웹호스팅 트래픽이 일정 수준 이상으로 올라가면 알림을 보내주는 프로그램
-- [포텐 엘리온](https://github.com/dokdo2013/4ten_elyon) : 아프리카TV '포텐'님의 ELYON 클랜원 관리 웹사이트
-- [아프리카TV 자동 추천/꿀잼각 크롬 익스텐션](https://github.com/dokdo2013/afreecatv_auto_up) : 아프리카TV 자동 추천, 자동 꿀잼각을 실행해주는 크롬 익스텐션
-- 트리니티 헬퍼 ([웹](https://github.com/dokdo2013/trinity_helper_web), [서버](https://github.com/dokdo2013/trinity_helper_python)) : 가톨릭대학교 수강 정정을 위한 알림 서비스
-- [GS25 담배 재고조사 웹사이트](https://github.com/dokdo2013/gs25-cigacheck) : GS25 소사원룸점 담배 재고조사 웹사이트
-- [에브리타임 자동추천 매크로](https://github.com/dokdo2013/everytime-like-macro) : 에브리타임 자동추천 매크로
-- [해누플래너](https://github.com/dokdo2013/haenu-planner-v1) : 간편하게 이용할 수 있는 학습플래너 웹사이트
-- [야자타임](https://github.com/dokdo2013/Yajatime) : 부산국제고등학교 야간자율학습 통합관리시스템
-
-[더 알아보고 싶다면?][work]
 
 <br>
 
