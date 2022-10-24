@@ -1,8 +1,3 @@
-<!--
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dokdo2013&langs_count=8)
-![](https://github-readme-stats.vercel.app/api?username=dokdo2013&show_icons=true)
--->
-
 # 조현우 (HyeonWoo Jo) - Web Fullstack Developer
 > 도전하며 성장하는 4년차 개발자 조현우입니다!
 
@@ -17,7 +12,7 @@
 				<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
 				<br /><br /><b>(주)이제이엔</b>
 			</a><br />
-      <sub>2022/04/18 ~ 현재</sub><br />
+      <sub>2022/04/21 ~ 현재</sub><br />
       <sub>백엔드팀 백엔드개발자</sub><br />
 		</td>
 		<td align="center" width="250">
@@ -270,6 +265,3 @@
 ![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=true&show_icons=true&theme=dracula)
 
 </div>
-
-[work]: <https://github.com/dokdo2013/dokdo2013/blob/main/WORKS.md>
-[profile]: <https://github.com/dokdo2013/dokdo2013/blob/main/PROFILE.md>
