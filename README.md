@@ -39,6 +39,15 @@
 <table>
 	<tr>
 		<td align="center" width="225">
+			<a href="#">				
+				<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" width="80" alt=""/>
+				<br /><b>Clippy.kr</b>
+			</a><br />
+      <sub>2022/11/24 ~ </sub><br />
+      <sub>Next.js, NestJS, MariaDB, Redis</sub><br />
+      <a target="_blank" href="https://clippy.kr"><sub>clippy.kr</sub></a>
+		</td>
+		<td align="center" width="225">
 			<a href="https://github.com/dokdo2013/junharry-test-next">
 				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
 				<br /><b>해리배치고사</b>
@@ -65,6 +74,8 @@
       <sub>Next.js, Tailwind CSS</sub><br />
       <a target="_blank" href="https://minigame.leaven.team"><sub>minigame.leaven.team</sub></a>
 		</td>
+	</tr>
+	<tr>
     <td align="center" width="225">
 			<a href="https://github.com/dokdo2013/beadyo97-gellgell">
 				<img src="https://raw.githubusercontent.com/dokdo2013/beadyo97-gellgell/main/src/gellgell.png" width="80" alt=""/>
@@ -74,8 +85,6 @@
       <sub>React.js, FastAPI, MariaDB</sub><br />
       <a target="_blank" href="https://gell.leaven.team"><sub>gell.leaven.team</sub></a>
 		</td>
-	</tr>
-	<tr>
 		<td align="center" width="225">
 			<a href="https://github.com/dokdo2013/leaven-onair">
 				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
@@ -102,6 +111,8 @@
       <sub>React.js, FastAPI, MariaDB</sub><br />
       <a target="_blank" href="https://multi.leaven.team"><sub>multi.leaven.team</sub></a>
 		</td>
+	</tr>
+	<tr>
     <td align="center" width="225">
 			<a href="https://github.com/dokdo2013/moneymoney-front">
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="63" height="80" alt=""/>
@@ -111,8 +122,6 @@
       <sub>Svelte, 서버리스 프레임워크, Flask</sub><br />
       <a target="_blank" href="https://money.haenu.com"><sub>money.haenu.com</sub></a>
 		</td>
-	</tr>
-	<tr>
 		<td align="center" width="225">
 			<a href="https://github.com/dokdo2013/music.c6h12o6.kr">
 				<img src="https://static-cdn.jtvnw.net/emoticons/v2/304434784/static/light/2.0" width="80" alt=""/>
@@ -139,6 +148,8 @@
       <sub>HTML+CSS, Bootsrap</sub><br />
       <a target="_blank" href="https://tgd.haenu.com"><sub>tgd.haenu.com</sub></a>
 		</td>
+	</tr>
+	<tr>
     <td align="center" width="225">
 			<a href="https://github.com/dokdo2013/4ten_elyon">
 				<img src="https://yt3.ggpht.com/ytc/AMLnZu9d-6GuR4axyYzZFmkEbG52RSuYFC70JxoA9usW=s176-c-k-c0x00ffffff-no-rj" width="80" alt=""/>
@@ -148,8 +159,6 @@
       <sub>PHP CodeIgniter3, MariaDB</sub><br />
       <a target="_blank" href="https://4ten.haenu.com"><sub>4ten.haenu.com</sub></a>
 		</td>
-	</tr>
-	<tr>
 		<td align="center" width="225">
 			<a href="https://github.com/dokdo2013/afreecatv_auto_up">
 				<img src="https://lh3.googleusercontent.com/vuuVOLrSGfWEhLDhPuEN9EPIwuwgFDqU3oJz2ZI1aK9_VEQo-3c0WjtUwuG7RMPW9xWuc0MJgEhnK2A4ls4O67lkbQ=w128-h128-e365-rj-sc0x00ffffff" width="80" alt=""/>
@@ -176,6 +185,8 @@
       <sub>PHP, MySQL, Python</sub><br />
       <a target="_blank" href="https://cuk.haenu.com"><sub>cuk.haenu.com</sub></a>
 		</td>
+	</tr>
+	<tr>
     <td align="center" width="225">
 			<a href="https://github.com/dokdo2013/catolling">
 				<img src="https://user-images.githubusercontent.com/22076477/197336872-ca34478b-73df-4f9e-930d-6f945512133a.jpeg" width="80" alt=""/>
@@ -185,8 +196,6 @@
       <sub>PHP, Bootstrap</sub><br />
       <a target="_blank" href="https://catolling.haenu.com"><sub>catolling.haenu.com</sub></a>
 		</td>
-	</tr>
-	<tr>
     <td align="center" width="225">
 			<a href="https://github.com/dokdo2013/haenu-planner-v1">
 				<img src="https://user-images.githubusercontent.com/22076477/197337096-5065544c-8295-44c3-9bcd-c6d26b2188cd.png" width="80" alt=""/>
