@@ -43,7 +43,7 @@
 				<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" width="80" alt=""/>
 				<br /><b>Clippy.kr</b>
 			</a><br />
-      <sub>2022/11/24 ~ </sub><br />
+      <sub>2022/11/24 ~ 2023/02/14</sub><br />
       <sub>Next.js, NestJS, MariaDB, Redis</sub><br />
       <a target="_blank" href="https://clippy.kr"><sub>clippy.kr</sub></a>
 		</td>
