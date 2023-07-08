@@ -1,5 +1,5 @@
-# 조현우 (HyeonWoo Jo) - Web Fullstack Developer
-> 도전하며 성장하는 4년차 개발자 조현우입니다!
+# 조현우 (HyeonWoo Jo) - Web Fullstack Engineer
+> 도전하며 성장하는 4년차 풀스택 엔지니어 조현우입니다!
 
 [👉 노션 포트폴리오 보러 가기](https://resume.haenu.com)
 
