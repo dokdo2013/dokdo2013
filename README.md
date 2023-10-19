@@ -61,7 +61,7 @@
 			</a><br />
 			<sub>2023/08/28 ~</sub><br />
 			<sub>Next.js, NestJS, Supabase, Redis, k8s, terraform</sub><br />
-			<a target="_blank" href="https://archivers.app"><sub>leaven.team</sub></a>
+			<a target="_blank" href="https://archivers.app"><sub>archivers.app</sub></a>
 		</td>
 		<td align="center" width="225">
 			<a href="https://github.com/dokdo2013/leaven-portal">
