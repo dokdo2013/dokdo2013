@@ -3,50 +3,14 @@
 
 [👉 Resume/Portfolio Website (KR)](https://haenu.com)
 
-## Career
+## Work Experience
+| Period | Company(KR/EN) (Service) | Team | Position | Skills |
+|---|---|---|---|---|
+| 2023.08.14 ~ Present | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | DevOps Team | DevOps Engineer | AWS, Kubernetes, etc... |
+| 2022.04.21 ~ 2023.08.13 | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | Backend Team | Backend Developer | NestJS, PHP, Next.js |
+| 2021.10.01 ~ 2022.04.18 | MHQ / 엠에이치큐 ([i.M Taxi](https://imforyou.co.kr)) | WebDev Team | Web Developer | PHP |
+| 2019.09.01 ~ 2021.08.31 | [JOBMAP / 미래직업전망연구원](https://jobmap.kr) | Platform Team | Researcher | PHP |
 
-<table>
-	<tr>
-		<td align="center" width="250">
-			<br /><a href="https://ejn.gg">
-				<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
-				<br /><br /><b>(주)이제이엔</b>
-			</a><br />
-      <sub>2023/08/14 ~ </sub><br />
-      <sub>DevOps Team / DevOps Engineer</sub><br />
-      <sub>데브옵스팀 / 데브옵스 엔지니어</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="https://ejn.gg">
-				<img src="https://user-images.githubusercontent.com/22076477/197338212-cea7a10c-c2d8-48c4-965b-ae6eccf47c2a.png" width="120" alt=""/>
-				<br /><br /><b>(주)이제이엔</b>
-			</a><br />
-      <sub>2022/04/21 ~ 2023/08/13</sub><br />
-      <sub>Backend Team / Backend Developer</sub><br />
-      <sub>백엔드팀 / 백엔드 개발자</sub><br />
-		</td>
-		<td align="center" width="250">
-			<br /><a href="https://imforyou.co.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338390-7aadf95b-417e-44ad-a756-db04bc84611b.png" width="120" alt=""/>
-			  <br /><br /><b>(주)엠에이치큐</b>
-			</a><br />
-      <sub>2021/10/01 ~ 2022/04/18</sub><br />
-      <sub>WebDev Team / Manager</sub><br />
-      <sub>웹개발팀 / 매니저</sub><br />
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="250">
-			<br /><a href="http://jobmap.kr">
-				<img src="https://user-images.githubusercontent.com/22076477/197338365-4ab53974-c93d-4c39-9532-dae33120ec0a.png" width="110" alt=""/>
-				<br /><br /><b>(주)미래직업전망연구원</b>
-			</a><br />
-      <sub>2019/09/01 ~ 2021/08/31</sub><br />
-      <sub>Platform Team / Researcher</sub><br />
-      <sub>플랫폼개발사업본부 / 선임연구원</sub><br />
-		</td>
-	</tr>
-</table>
 
 ## Side Projects
 
