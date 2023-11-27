@@ -6,7 +6,7 @@
 ## Work Experience
 | Period | Company(KR/EN) (Service) | Team | Position | Skills |
 |---|---|---|---|---|
-| 2023.08.14 ~ Present | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | DevOps Team | DevOps Engineer | AWS, Kubernetes, etc... |
+| 2023.08.14 ~ Present | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | DevOps Team | DevOps Engineer | AWS, k8s, etc... |
 | 2022.04.21 ~ 2023.08.13 | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | Backend Team | Backend Developer | NestJS, PHP, Next.js |
 | 2021.10.01 ~ 2022.04.18 | MHQ / 엠에이치큐 ([i.M Taxi](https://imforyou.co.kr)) | WebDev Team | Web Developer | PHP |
 | 2019.09.01 ~ 2021.08.31 | [JOBMAP / 미래직업전망연구원](https://jobmap.kr) | Platform Team | Researcher | PHP |
