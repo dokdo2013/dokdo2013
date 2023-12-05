@@ -4,8 +4,9 @@
 [👉 Resume/Portfolio Website (KR)](https://haenu.com)
 
 ## Work Experience
-| Period | Company(KR/EN) (Service) | Team | Position | Skills |
+| Period | Company(KR/EN) (Services) | Team | Position | Skills |
 |---|---|---|---|---|
+| 2024.01.02 ~ | [HYPERCONNECT](https://hyperconnect.com/) ([azar](https://azarlive.com), [Hakuna](https://hakuna.live)) | DevOps Team | Internal Platform Engineer | |
 | 2023.08.14 ~ 2023.12.26 | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | DevOps Team | DevOps Engineer | AWS, k8s, etc... |
 | 2022.04.21 ~ 2023.08.13 | [EJN / 이제이엔](https://ejn.gg) ([Twip](https://twip.kr), [TGD](https://tgd.kr)) | Backend Team | Backend Developer | NestJS, PHP, Next.js |
 | 2021.10.01 ~ 2022.04.18 | MHQ / 엠에이치큐 ([i.M Taxi](https://imforyou.co.kr)) | WebDev Team | Web Developer | PHP |
