@@ -10,211 +10,30 @@
 - **MHQ (i.M Taxi)** Web Developer (2021.10.01 ~ 2022.04.18)
 - **미래직업전망연구원** Web Developer (2019.09.01 ~ 2021.08.31)
 
-## Side Projects
+## Projects
+- `Side Project` [ARCHIVERS](https://archivers.app) (2023.10.03 ~ 2023.12.17) : 쿠버네티스 기반 오픈소스 트위치 다시보기 녹화 서비스
+- `Side Project` [레븐 Portal](https://leaven.team) (2023.08.28 ~ ) : 아프리카TV 버츄얼 크루 '레븐' 포털 웹사이트
+- `EJN` [TWIP 핀볼게임](https://pinball.twip.kr) (2023.08.04 ~ 2023.08.18) : 오픈소스를 활용한 트윕 후원 연동 게임 콘텐츠
+- `EJN` [TWIP 빙빙도네](https://www.cast.help/update/twip-bingbing) (2023.04 ~ 2023.06) : 트윕 신규 후원기능 빙빙도네 개발
+- `EJN` [TWIP CLIP](https://vod.twip.kr) (2023.04.17 ~ 2023.12.26) : 트위치 클립 생성 서드파티 (TWIP VOD & CLIP 후속)
+- `EJN` [TWIP VOD & CLIP](https://vod.twip.kr) (2023.02.14 ~ 2023.04.17) : 트위치 생방송 다시보기 녹화 서드파티 (Clippy 후속)
+- `Side Project` [Clippy](https://clippy.kr) (2022.11.24 ~ 2023.02.14) : 트위치 클립 생성 서드파티
+- `Side Project` [해리배치고사](https://test.junharry.com) (2022.06.26 ~ 2022.07.02) : (전)트위치 스트리머 전해리 (현)아프리카TV BJ 해리 방송 1주년 기념 웹사이트
+- `Side Project` [나와 가장 잘 맞는 레븐 멤버는?](https://minigame.leaven.team) (2022.06.05 ~ 2022.06.05) : '레븐' 관련 MBTI 기반 미니게임
+- `Side Project` [gellgell](https://gell.leaven.team) (2022.05.16 ~ 2022.05.17) : (전)트위치 스트리머 (현)아프리카TV BJ 구슬요 팬게임
+- `EJN` [TWIP Mobile](https://www.cast.help/update/twip-app-mvp-update) (2022.05 ~ 2022.12) : 안드로이드 트게더 앱 내 트윕 후원 기능 개발
+- `Side Project` [레븐 멀티트위치](https://multi.leaven.team) (2022.04.21 ~ 2022.04.29) : '레븐' 멤버 트위치 방송을 동시에 시청할 수 있는 멀티트위치 웹사이트
+- `Side Project` [머니머니](https://money.haenu.com) (2022.04.02 ~ 2022.04.08) : 개인 용도로 제작한 가계부 웹사이트
+- `Side Project` [포도당 노래책](https://music.c6h12o6.kr) (2022.02.12 ~ 2022.02.14) : (전)트위치 스트리머 (현)아프리카TV BJ 포도당 노래책 웹사이트
+- `MHQ` [i.M 택시 예약서비스 웹뷰 개발](https://imforyou.co.kr) (2021.11 ~ 2021.12) : i.M 택시 서비스 예약서비스 웹뷰 개발
+- `MHQ` [i.M 택시 백오피스 개발](https://imforyou.co.kr) (2021.10 ~ 2022.04) : i.M 택시 서비스 백오피스 개발
+- `Side Project` [AfreecaTV Auto UP](https://chrome.google.com/webstore/detail/afreecatv-auto-up/dclegcffcilobhmapnmoekjecibgglcg) (2020.11.09 ~ 2021.01.04) : 아프리카TV 자동 추천/꿀잼각 크롬 익스텐션
+- `JOBMAP` [JDC 일자리데이터센터](https://jobmap.kr) (2020.08 ~ 2021.04) : 지자체별 통계 데이터 표준화/시각화하여 문서로 제공하는 서비스 개발
+- `Side Project` [트리니티 헬퍼](https://cuk.haenu.com) (2020.08.01 ~ 2020.08.31) : 가톨릭대학교 수강정정 도우미 웹사이트
+- `JOBMAP` [(사)한국직업상답협회 공동훈련센터](https://hrd.kvoca.org) (2019.11 ~ 2020.04) : (사)한국직업상담협회 공동훈련센터 웹사이트 개발
+- `Side Project` [해누플래너](https://github.com/dokdo2013/haenu-planner-v1) (2018.08.15 ~ 2018.08.31) : 수능 수험생을 위한 학습 플래너 웹사이트
+- `Side Project` [야자타임](https://github.com/dokdo2013/Yajatime) (2016.07.01 ~ 2018.02.28) : 부산국제고등학교 야간자율학습 통합관리 시스템
 
-<!-- GitHub Editor를 Tabs / 4 / Soft wrap 으로 설정해주세요 -->
-
-<table>
-	<tr>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/archivers-fe">
-				<img src="https://archivers.app/Archivers_A.png" width="80" alt=""/>
-				<br /><b>Archivers</b>
-			</a><br />
-			<sub>2023/08/28 ~</sub><br />
-			<sub>Next.js, NestJS, Supabase, Redis, k8s, terraform</sub><br />
-			<a target="_blank" href="https://archivers.app"><sub>archivers.app</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-portal">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
-				<br /><b>레븐 Portal</b>
-			</a><br />
-			<sub>2023/08/28 ~</sub><br />
-			<sub>Next.js, Supabase</sub><br />
-			<a target="_blank" href="https://leaven.team"><sub>leaven.team</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="#">				
-				<img src="https://user-images.githubusercontent.com/22076477/208558400-5c8640bc-bd77-46aa-8c93-a91c2f0cf30c.png" width="80" alt=""/>
-				<br /><b>Clippy.kr</b>
-			</a><br />
-			<sub>2022/11/24 ~ 2023/02/14</sub><br />
-			<sub>Next.js, NestJS, MariaDB, Redis</sub><br />
-			<a target="_blank" href="https://clippy.kr"><sub>clippy.kr</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/junharry-test-next">
-				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
-				<br /><b>해리배치고사</b>
-			</a><br />
-			<sub>2022/07/21 ~ 2022/07/25</sub><br />
-			<sub>Next.js, FastAPI, MariaDB, Redis</sub><br />
-			<a target="_blank" href="https://test.junharry.com"><sub>test.junharry.com</sub></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/junharry">
-				<img src="https://imagedelivery.net/lR-z0ff8FVe1ydEi9nc-5Q/c552441f-f764-4e67-cd3f-1621da181a00/icon200" width="80" alt=""/>
-				<br /><b>전해리 방송일정</b>
-			</a><br />
-			<sub>2022/06/26 ~ 2022/07/02</sub><br />
-			<sub>React.js, FastAPI, MariaDB, Redis</sub><br />
-			<a target="_blank" href="https://junharry.com"><sub>junharry.com</sub></a>
-		</td>
-	    <td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-minigame">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
-				<br /><b>나와 가장 잘 맞는 레븐 멤버는?</b>
-			</a><br />
-			<sub>2022/06/05 ~ 2022/06/05</sub><br />
-			<sub>Next.js, Tailwind CSS</sub><br />
-			<a target="_blank" href="https://minigame.leaven.team"><sub>minigame.leaven.team</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/beadyo97-gellgell">
-				<img src="https://raw.githubusercontent.com/dokdo2013/beadyo97-gellgell/main/src/gellgell.png" width="80" alt=""/>
-				<br /><b>gellgell</b>
-			</a><br />
-			<sub>2022/05/16 ~ 2022/05/17</sub><br />
-			<sub>React.js, FastAPI, MariaDB</sub><br />
-			<a target="_blank" href="https://gell.leaven.team"><sub>gell.leaven.team</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-onair">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
-				<br /><b>레븐 방송정보</b>
-			</a><br />
-			<sub>2022/05/02 ~ 2022/05/02</sub><br />
-			<sub>React.js, FastAPI, MariaDB</sub><br />
-			<a target="_blank" href="https://onair.leaven.team"><sub>onair.leaven.team</sub></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/naver-cafe-twitch-alert">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
-				<br /><b>네이버 카페 트위치 뱅온 알림봇</b>
-			</a><br />
-			<sub>2022/04/25 ~ 2022/04/27</sub><br />
-			<sub>Python, Cronjob, Express.js</sub>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/leaven-multi">
-				<img src="https://user-images.githubusercontent.com/22076477/197334291-d7bc51ea-6e8f-4526-a9a9-56a91c44fcef.png" width="80" alt=""/>
-				<br /><b>레븐 멀티 트위치</b>
-			</a><br />
-			<sub>2022/04/21 ~ 2022/04/29</sub><br />
-			<sub>React.js, FastAPI, MariaDB</sub><br />
-			<a target="_blank" href="https://multi.leaven.team"><sub>multi.leaven.team</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/moneymoney-front">
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svelte_Logo.svg/1200px-Svelte_Logo.svg.png" width="63" height="80" alt=""/>
-				<br /><b>머니머니</b>
-			</a><br />
-			<sub>2022/04/02 ~ 2022/04/08</sub><br />
-			<sub>Svelte, 서버리스 프레임워크, Flask</sub><br />
-			<a target="_blank" href="https://money.haenu.com"><sub>money.haenu.com</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/music.c6h12o6.kr">
-				<img src="https://static-cdn.jtvnw.net/emoticons/v2/304434784/static/light/2.0" width="80" alt=""/>
-				<br /><b>포도당 노래책</b>
-			</a><br />
-			<sub>2022/02/12 ~ 2022/02/14</sub><br />
-			<sub>React.js, FastAPI, MariaDB</sub><br />
-			<a target="_blank" href="https://music.c6h12o6.kr"><sub>music.c6h12o6.kr</sub></a>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/discord-coin-bot">
-				<img src="https://bitcoin.org/img/icons/opengraph.png?1666174126" width="80" alt=""/>
-				<br /><b>디스코드 코인봇</b>
-			</a><br />
-			<sub>2021/12/01 ~ 2022/02/11</sub><br />
-			<sub>Python</sub>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/4ten_elyon">
-				<img src="https://yt3.ggpht.com/ytc/AMLnZu9d-6GuR4axyYzZFmkEbG52RSuYFC70JxoA9usW=s176-c-k-c0x00ffffff-no-rj" width="80" alt=""/>
-				<br /><b>4TEN ELYON</b>
-			</a><br />
-			<sub>2021/01/01 ~ 2021/01/31</sub><br />
-			<sub>PHP CodeIgniter3, MariaDB</sub><br />
-			<a target="_blank" href="https://4ten.haenu.com"><sub>4ten.haenu.com</sub></a>
-		</td>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/afreecatv_auto_up">
-				<img src="https://lh3.googleusercontent.com/vuuVOLrSGfWEhLDhPuEN9EPIwuwgFDqU3oJz2ZI1aK9_VEQo-3c0WjtUwuG7RMPW9xWuc0MJgEhnK2A4ls4O67lkbQ=w128-h128-e365-rj-sc0x00ffffff" width="80" alt=""/>
-				<br /><b>AfreecaTV Auto UP</b>
-			</a><br />
-			<sub>2020/11/09 ~ 2022/11/17</sub><br />
-			<sub>Javascript (Chrome Extension)</sub><br />
-			<a target="_blank" href="https://chrome.google.com/webstore/detail/afreecatv-auto-up/dclegcffcilobhmapnmoekjecibgglcg"><sub>Chrome Web Store</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/gs25-cigacheck">
-				<img src="https://user-images.githubusercontent.com/22076477/197336702-25d95166-112b-4c42-a474-ddc8ad5f75ad.png" width="100" alt=""/>
-				<br /><b>편의점 담배 재고조사 웹앱</b>
-			</a><br />
-			<sub>2020/09/01 ~ 2020/09/30</sub><br />
-			<sub>PHP, MySQL</sub>
-		</td>
-	</tr>
-	<tr>
-		<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/trinity_helper_web">
-				<img src="https://user-images.githubusercontent.com/22076477/197336872-ca34478b-73df-4f9e-930d-6f945512133a.jpeg" width="80" alt=""/>
-				<br /><b>트리니티 헬퍼</b>
-			</a><br />
-			<sub>2020/08/01 ~ 2020/08/31</sub><br />
-			<sub>PHP, MySQL, Python</sub><br />
-			<a target="_blank" href="https://cuk.haenu.com"><sub>cuk.haenu.com</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/catolling">
-				<img src="https://user-images.githubusercontent.com/22076477/197336872-ca34478b-73df-4f9e-930d-6f945512133a.jpeg" width="80" alt=""/>
-				<br /><b>Catolling</b>
-			</a><br />
-			<sub>2019/12/01 ~ 2019/12/10</sub><br />
-			<sub>PHP, Bootstrap</sub><br />
-			<a target="_blank" href="https://catolling.haenu.com"><sub>catolling.haenu.com</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/haenu-planner-v1">
-				<img src="https://user-images.githubusercontent.com/22076477/197337096-5065544c-8295-44c3-9bcd-c6d26b2188cd.png" width="80" alt=""/>
-				<br /><b>해누플래너</b>
-			</a><br />
-			<sub>2018/08/15 ~ 2018/08/31</sub><br />
-			<sub>PHP, MySQL, Bootstrap</sub><br />
-			<a target="_blank" href="https://play.google.com/store/apps/details?id=appinventor.ai_hyeonwoo5342.hyeonwoo_gouniv"><sub>Google Play Store</sub></a>
-		</td>
-    	<td align="center" width="225">
-			<a href="https://github.com/dokdo2013/Yajatime">
-				<img src="https://user-images.githubusercontent.com/22076477/197337858-aece0b84-68dc-4699-b55b-1422a7caab10.jpeg" width="80" align="center" alt=""/>
-				<br /><b>야자타임</b>
-			</a><br />
-			<sub>2016/07/01 ~ 2018/02/28</sub><br />
-			<sub>PHP, MySQL, Bootstrap</sub><br />
-			<a target="_blank" href="https://yajatime.haenu.com"><sub>yajatime.haenu.com</sub></a>
-		</td>
-	</tr>
-	<tr>
-    	<td align="center" width="225">
-			<img src="https://play-lh.googleusercontent.com/xW4aDH34nVgdy8l3XNPfzkqi1_K1aTxFfd0eQsdlr-qwbk8nqDZOck3t_nadrgjXYbfv=w480-h960-rw" width="80" alt=""/>
-			<br /><b>마테마티카</b><br />
-			<sub>2014/10/01 ~ 2015/01/31</sub><br />
-			<sub>ActionScript 3.0 (Adobe Flash Air)</sub><br />
-			<a target="_blank" href="https://play.google.com/store/apps/details?id=appinventor.ai_hyeonwoo5342.hyeonwoo_gouniv"><sub>Google Play Store</sub></a>
-		</td>
-	</tr>
-</table>
-
-
-<br>
 
 ## Tech Stacks
 
