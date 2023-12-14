@@ -1,5 +1,4 @@
 # 조현우 (HyeonWoo Jo) - Web Fullstack Engineer
-> 스타트업 정신으로 무장한 5년차 소프트웨어 엔지니어 조현우입니다!
 
 [👉 Resume/Portfolio Website (KR)](https://haenu.com)
 
