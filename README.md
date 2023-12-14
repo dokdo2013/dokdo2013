@@ -11,6 +11,7 @@
 
 ## Projects
 - `Side Project` [ARCHIVERS](https://archivers.app) (2023.10.03 ~ 2023.12.17) : 쿠버네티스 기반 오픈소스 트위치 다시보기 녹화 서비스
+- `Hackathon` [KAMY](https://front.haenu.dev) (2023.09.23 ~ 2023.09.24) : 영업사원 인맥관리 서비스 - 해커톤(Unithon) 참여해서 제작
 - `Side Project` [레븐 Portal](https://leaven.team) (2023.08.28 ~ ) : 아프리카TV 버츄얼 크루 '레븐' 포털 웹사이트
 - `EJN` [TWIP 핀볼게임](https://pinball.twip.kr) (2023.08.04 ~ 2023.08.18) : 오픈소스를 활용한 트윕 후원 연동 게임 콘텐츠
 - `EJN` [TWIP 빙빙도네](https://www.cast.help/update/twip-bingbing) (2023.04 ~ 2023.06) : 트윕 신규 후원기능 빙빙도네 개발
