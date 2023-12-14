@@ -4,7 +4,7 @@
 [👉 Resume/Portfolio Website (KR)](https://haenu.com)
 
 ## Work Experiences
-- **HYPERCONNECT** Internal Platform Engineer (2024.01.02 ~ )
+- **HYPERCONNECT (Azar, Hakuna)** Internal Platform Engineer (2024.01.02 ~ )
 - **EJN (Twip, TGD)** DevOps Engineer (2023.08.14 ~ 2023.12.26)
 - **EJN (Twip, TGD)** BackEnd Developer (2022.04.21 ~ 2023.08.13)
 - **MHQ (i.M Taxi)** Web Developer (2021.10.01 ~ 2022.04.18)
