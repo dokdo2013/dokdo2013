@@ -10,9 +10,22 @@
 - **JOBMAP** Platform Team, Web Developer (September 2019 - August 2021)
 
 ## Education
-- **Master's Degree (in progress)**, Graduate School of Education, Computer Education, Hankuk University of Foreign Studies, March 2024 - Present
-- **Bachelor of Science in Computer and AI Engineering (Transferred)**, Sejong Cyber University, March 2021 - February 2024
-- **Undergraduate Studies in Computer and Information Engineering (not completed, transferred)**, Catholic University, March 2019 - February 2021
+
+**Hankuk University of Foreign Studies, Graduate School of Education**
+
+- Degree: Master's Degree (in progress)
+- Major: Computer Education
+- Period: March 2024 - Present
+
+**Sejong Cyber University**
+
+- Degree: Bachelor of Science in Computer and AI Engineering (Transferred)
+- Period: March 2021 - February 2024
+
+**Catholic University of Korea**
+
+- Studies: Computer and Information Engineering (not completed, transferred)
+- Period: March 2019 - February 2021
 
 ## Projects
 - `Side Project` [ARCHIVERS](https://archivers.app) (2023.10.03 ~ 2023.12.17) : An open-source Twitch replay recording service based on Kubernetes.
