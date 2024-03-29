@@ -3,11 +3,19 @@
 [👉 Resume/Portfolio Website (KR)](https://haenu.com)
 
 ## Work Experiences
-- **HYPERCONNECT (Azar, Hakuna)** DevOps Team, Internal Platform Engineer (January 2024 - Present)
-- **EJN (Twip, TGD)** DevOps Team, DevOps Engineer (August 2023 - December 2023)
-- **EJN (Twip, TGD)** Backend Team, Backend Developer (April 2022 - August 2023)
-- **MHQ (i.M Taxi)** Web Team, Web Developer (October 2021 - April 2022)
-- **JOBMAP** Platform Team, Web Developer (September 2019 - August 2021)
+
+**HYPERCONNECT (Azar, Hakuna)**
+- **Internal Platform Engineer**, DevOps Team (2024/01 - Present)
+
+**EJN (Twip, TGD)**
+- **DevOps Engineer**, DevOps Team (2023/08 - 2023/12)
+- **Backend Developer**, Backend Team (2022/04 - 2023/08)
+
+**MHQ (i.M Taxi)**
+- **Web Developer**, Web Team (2021/10 - 2022/04)
+
+**JOBMAP**
+- **Web Developer**, Platform Team (2019/09 - 2021/08)
 
 ## Education
 
