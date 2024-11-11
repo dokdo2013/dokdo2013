@@ -35,30 +35,17 @@
 - Studies: Computer and Information Engineering (not completed, transferred)
 - Period: March 2019 - February 2021
 
-## Projects
-- `Side Project` [ARCHIVERS](https://archivers.app) (2023.10.03 ~ 2023.12.17) : An open-source Twitch replay recording service based on Kubernetes.
-- `Hackathon` [KAMY](https://front.haenu.dev) (2023.09.23 ~ 2023.09.24) : A networking service for salespeople - Crated during the Unithon Hackathon
-- `Side Project` [Leaven Portal](https://leaven.team) (2023.08.28 ~ ) : Portal website for the AfreecaTV Virtual Crew 'Leaven'.
-- `EJN` [TWIP Pinball Game](https://pinball.twip.kr) (2023.08.04 ~ 2023.08.18) : Open-source based pinball game content integrated with TWIP donations.
-- `EJN` [TWIP BingBing Donation](https://www.cast.help/update/twip-bingbing) (2023.04 ~ 2023.06) : Development of a new donation feature for TWIP called BingBing Donation.
-- `EJN` [TWIP CLIP](https://vod.twip.kr) (2023.04.17 ~ 2023.12.26) : A third-party Twitch clip creation service (Follow-up to TWIP VOD & CLIP).
-- `EJN` [TWIP VOD & CLIP](https://vod.twip.kr) (2023.02.14 ~ 2023.04.17) : A third-party service for recording Twitch live broadcasts (Successor to Clippy).
-- `Side Project` [Clippy](https://clippy.kr) (2022.11.24 ~ 2023.02.14) : A third-party Twitch clip creation service.
-- `Side Project` [Harry Quiz](https://test.junharry.com) (2022.06.26 ~ 2022.07.02) : A website commemorating the 1st anniversary of the broadcast by Jun Harry, formerly a Twitch Streamer, now an AfreecaTV BJ.
-- `Side Project` [Which Leaven Member Are You Most Compatible With?](https://minigame.leaven.team) (2022.06.05 ~ 2022.06.05) : An MBTI-based mini-game related to 'Leaven'.
-- `Side Project` [gellgell](https://gell.leaven.team) (2022.05.16 ~ 2022.05.17) : A fan game for Beadyo, formerly a Twitch streamer, now an AfreecaTV BJ.
-- `EJN` [TWIP Mobile](https://www.cast.help/update/twip-app-mvp-update) (2022.05 ~ 2022.12) : Development of TWIP donation features within the Android TGD App.
-- `Side Project` [Leaven MultiTwitch](https://multi.leaven.team) (2022.04.21 ~ 2022.04.29) : A MultiTwitch website for simultaneously watching 'Leaven' members' Twitch broadcasts.
-- `Side Project` [MoneyMoney](https://money.haenu.com) (2022.04.02 ~ 2022.04.08) : A personal finance website created for individual use.
-- `Side Project` [Pododang musicbook](https://music.c6h12o6.kr) (2022.02.12 ~ 2022.02.14) : A musicbook website for Pododang(c6h12o6), formerly a Twitch streamer, now an AfreecaTV BJ.
-- `MHQ` [i.M Taxi Booking Webview](https://imforyou.co.kr) (2021.11 ~ 2021.12) : Development of a booking webview for the i.M Taxi Service.
-- `MHQ` [i.M Taxi Back Office](https://imforyou.co.kr) (2021.10 ~ 2022.04) : Development of the backoffice for the i.M Taxi Service.
-- `Side Project` [AfreecaTV Auto UP](https://chrome.google.com/webstore/detail/afreecatv-auto-up/dclegcffcilobhmapnmoekjecibgglcg) (2020.11.09 ~ 2021.01.04) : An AfreecaTV auto like Chrome extension.
-- `JOBMAP` [JDC Job Data Center](https://jobmap.kr) (2020.08 ~ 2021.04) : Development of a service that standardizes/visualizes statistical data by local government and provides it in document form.
-- `Side Project` [Trinity Helper](https://cuk.haenu.com) (2020.08.01 ~ 2020.08.31) : A website to assist with course corrections at Catholic University.
-- `JOBMAP` [Korean Vocational Counseling Association Joint Training Center](https://hrd.kvoca.org) (2019.11 ~ 2020.04) : Development of the website for the Joint Training Center of the Korean Vocational Counseling Association.
-- `Side Project` [Haenu Planner](https://github.com/dokdo2013/haenu-planner-v1) (2018.08.15 ~ 2018.08.31) : A study planner website for students preparing for the Korean College Scholastic Ability Test.
-- `Side Project` [Yajatime](https://github.com/dokdo2013/Yajatime) (2016.07.01 ~ 2018.02.28) : An integrated management system for night self-study at Busan International High School.
+## Community Experiences
+
+**UbuCon Korea 2024**
+
+- 2024/08/10, Microsoft Korea
+- Subject : Provisioning VM, LXC with LXD-UI
+
+**INFCON 2024**
+
+- 2024/08/02, COEX
+- Subject : Career level up with Side Project
 
 
 ## Tech Stacks
