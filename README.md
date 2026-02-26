@@ -4,8 +4,11 @@
 
 ## Work Experiences
 
+**DYLabs**
+- **CEO/Founder** (2024/08 - Current)
+
 **HYPERCONNECT (Azar, Hakuna)**
-- **Internal Platform Engineer**, DevOps Team (2024/01 - Present)
+- **Internal Platform Engineer**, DevOps Team (2024/01 - 2025/03)
 
 **EJN (Twip, TGD)**
 - **DevOps Engineer**, DevOps Team (2023/08 - 2023/12)
