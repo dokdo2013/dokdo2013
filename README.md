@@ -8,7 +8,7 @@
 - **CEO/Founder** (2024/08 - Present)
 
 **HYPERCONNECT (Azar, Hakuna)**
-- **Internal Platform Engineer**, DevOps Team (2024/01 - 2025/03)
+- **Internal Platform Engineer**, DevOps Team (2024/01 - 2026/03)
 
 **EJN (Twip, TGD)**
 - **DevOps Engineer**, DevOps Team (2023/08 - 2023/12)
