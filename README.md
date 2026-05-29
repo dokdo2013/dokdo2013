@@ -50,12 +50,3 @@
 - 2024/08/02, COEX
 - Subject : Career level up with Side Project
 
-
-
-<br><br>
-
-<div align="center">
-
-![Hyeonwoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=dokdo2013&count_private=true&show_icons=true&theme=dracula)
-
-</div>
