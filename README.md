@@ -5,7 +5,7 @@
 ## Work Experiences
 
 **DYLabs**
-- **CEO/Founder** (2024/08 - Present)
+- **CEO/Co-Founder** (2024/08 - 2026/09)
 
 **HYPERCONNECT (Azar, Hakuna)**
 - **Internal Platform Engineer**, DevOps Team (2024/01 - 2026/03)
